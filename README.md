@@ -1,2 +1,3 @@
 # git-tools
-This is for knowing for Github
+This is for knowing for Github.
+Auther - Ankan Sahu
